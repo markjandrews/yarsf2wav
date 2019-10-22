@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YARSF2Wav", "YARSF2Wav\YARSF2Wav.csproj", "{FED82F05-B350-43C1-B7FD-4ECA20555492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED82F05-B350-43C1-B7FD-4ECA20555492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED82F05-B350-43C1-B7FD-4ECA20555492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED82F05-B350-43C1-B7FD-4ECA20555492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED82F05-B350-43C1-B7FD-4ECA20555492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02EEC2C7-0BD8-4DCF-8C37-DC4B3ABB7873}
+	EndGlobalSection
+EndGlobal
